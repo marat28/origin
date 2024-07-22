@@ -1,0 +1,13 @@
+css/
+
+tmp/
+
+js/
+
+*.html
+
+i*.html_old
+
+img/
+
+*.DS_Store
